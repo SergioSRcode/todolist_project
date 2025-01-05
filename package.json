@@ -1,0 +1,32 @@
+{
+  "dependencies": {
+    "express": "4",
+    "http-errors": "1",
+    "lodash": "^4.17.21",
+    "morgan": "1.9"
+  },
+  "name": "todolist",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SergioSRcode/todolist_project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SergioSRcode/todolist_project/issues"
+  },
+  "homepage": "https://github.com/SergioSRcode/todolist_project#readme",
+  "devDependencies": {
+    "eslint": "^9.17.0"
+  }
+}
