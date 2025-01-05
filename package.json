@@ -27,6 +27,9 @@
   },
   "homepage": "https://github.com/SergioSRcode/todolist_project#readme",
   "devDependencies": {
+    "@babel/cli": "^7.26.4",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
     "eslint": "^9.17.0"
   }
 }
