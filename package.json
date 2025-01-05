@@ -14,7 +14,9 @@
     "test": "test"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "foo": "echo 'How do you do?'",
+    "babel": "babel lib --out-dir dist --presets=@babel/preset-env"
   },
   "repository": {
     "type": "git",
