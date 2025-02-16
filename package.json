@@ -1,6 +1,6 @@
 {
   "dependencies": {},
-  "name": "todolist",
+  "name": "@sergiosrcode/todolist",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
